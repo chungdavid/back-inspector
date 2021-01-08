@@ -1,4 +1,5 @@
 # 🔎 Back Inspector
+View the project [here](https://back-inspector.netlify.app)
 
 ### What is it?
 Back Inspector is a website where users with back pain can recieve a self-assessment by answering 14 yes/no questions.
