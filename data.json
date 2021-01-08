@@ -4,7 +4,7 @@
         "problem": "If your pain changes in intensity throughout the day,",
         "cause": "",
         "relief": "",
-        "do": "start tracking when the pain intensifies, and why. Is there a certain posture or position that aggravates it? Do you only experience pain when doing a specific actvity? Write all of it down and be detailed. Also, start tracking when your back feels relief or when there is less pain. Similar to your triggers, think about why you might have less pain. After a few days, you will start to notice patterns and will be able to understand what causes your pain and what relieves it. Then, eliminate the causes of pain.",
+        "do": "start tracking when the pain intensifies, and why. Is there a certain posture or position that aggravates it? Do you only experience pain when doing a specific activity? Write all of it down and be detailed. Also, start tracking when your back feels relief or when there is less pain. Like your triggers, think about why you might have less pain. After a few days, you will start to notice patterns and will be able to understand what causes your pain and what relieves it. Then, eliminate the causes of pain.",
         "avoid": ""
     },
     {
@@ -12,7 +12,7 @@
         "problem": "If you experience painful 'catches' when rolling over in bed,",
         "cause": "you may have spinal instability.",
         "relief": "",
-        "do": "You should stiffen you back with stabalization exercises (such as the McGill big 3) to prevent painful micro-motions of the spinal joints.",
+        "do": "You should stiffen you back with stabilization exercises (such as the McGill big 3) to prevent painful micro-motions of the spinal joints.",
         "avoid": "Avoid spine manipulation (chiropractic treatment), spine stretching, and exercises that involve bending and twisting."
     },
     {
@@ -26,9 +26,9 @@
     {
         "question": 4,
         "problem": "If your back pain increases throughout the day,",
-        "cause": "it may indicate cumulitive loading in your back. Specifically, a point is reached during the day where pain begins to present itself. Pain that increases throughout the day suggests that you are not practicing appropriate 'spine hygeine'",
+        "cause": "it may indicate cumulative loading in your back. Specifically, a point is reached during the day where pain begins to present itself. Pain that increases throughout the day suggests that you are not practicing appropriate 'spine hygiene'",
         "relief": "",
-        "do": "You should adopt spine conserving movements and elimate movements that stress the spine. Refer to the McGill method outlined at the beginning of the self-assessment.",
+        "do": "You should adopt spine conserving movements and eliminate movements that stress the spine. Refer to the McGill method outlined at the beginning of the self-assessment.",
         "avoid": ""
     },
     {
@@ -44,7 +44,7 @@
         "problem": "If you experience pain with spine flexion,",
         "cause": "it may be caused a disc bulge.",
         "relief": "For pain relief, try lying on your tummy and allow your low back to fall to the floor with each exhalation.",
-        "do": "Practice hinging at the hips and adapt it to all activities where you are required to bend over. In general, practice good spine hygeine principles. Additionally, look into the 'McGill Big 3' exercises.",
+        "do": "Practice hinging at the hips and adapt it to all activities where you are required to bend over. In general, practice good spine hygiene principles. Additionally, look into the 'McGill Big 3' exercises.",
         "avoid": "Avoid spinal flexion when bending forward and avoid staying in a single posture for a long time (such as sitting or standing)"
     },
     {
@@ -52,7 +52,7 @@
         "problem": "If you experience pain with dynamic loading,",
         "cause": "it may indicate compressive injury to the vertebral end plate.",
         "relief": "For relief, lie on your tummy.",
-        "do": "You should practice abdominal bracing or pectoral-lattissimus bracing and adjust the brace to just reduce pain without over-bracing.",
+        "do": "You should practice abdominal bracing or pectoral-latissimus bracing and adjust the brace to just reduce pain without over-bracing.",
         "avoid": "You should avoid dynamic loading activities (e.g. running) and exposure to vibration sources when sitting or standing (e.g. heavy equipment operation)."
     },
     {
@@ -67,17 +67,17 @@
         "question": 9,
         "problem": "If you experience pain with spinal compression,",
         "cause": "it may indicate compressive damage to the vertebrae or disc.",
-        "relief": "To find relief, practice good spine hygeine principles.",
-        "do": "You should reduce the load placed on your back with proper spine hygiene, and consider reducing activity.",
+        "relief": "To find relief, practice good spine hygiene principles.",
+        "do": "You should reduce the load placed on your back with proper spine hygiene and consider reducing activity.",
         "avoid": "Avoid forward reaches."
     },
     {
         "question": 10,
         "problem": "If you experience pain only when walking a specific distance,",
-        "cause": "it is associated with a few things. In older individuals, it may indicate arthritic conditions. If you're younger, it may be due to a joint such as the sacroiliac joint or facet joint. Essentially, cumulitive loading of the disc or arthrthritic joints from walking will irritate the local nerves and sometimes those travelling down the legs.",
+        "cause": "it is associated with a few things. In older individuals, it may indicate arthritic conditions. If you are younger, it may be due to a joint such as the sacroiliac joint or facet joint. Essentially, cumulative loading of the disc or arthritic joints from walking will irritate the local nerves and sometimes those travelling down the legs.",
         "relief": "Find a posture that relieves the pain (usually sitting or lying).",
-        "do": "You should still walk, but do so in intervals. Break your walking up into managable chunks and perform pain relieving postures in between each chunk. Doing so will make walking tolerable and help with overall recovery overtime.",
-        "avoid": "Avoid repetitive motions in the back. Avoid walking for periods long enough to stimulate the pain. Instead, end your walk when you're still feeling good."
+        "do": "You should still walk but do so in intervals. Break your walking up into manageable chunks and perform pain relieving postures in between each chunk. Doing so will make walking tolerable and help with overall recovery overtime.",
+        "avoid": "Avoid repetitive motions in the back. Avoid walking for periods long enough to stimulate the pain. Instead, end your walk when you are still feeling good."
     },
     {
         "question": 11,
@@ -106,7 +106,7 @@
     {
         "question": 14,
         "problem": "If your back pain increases with fast walking,",
-        "cause": "it may indicate stenosis as walking will add to the cumulitive load on the spine. On the other hand, those with a disc bulge may find that slow walking increases pain in the low back, and walking fast with he arms swinging about the shoulder reduces pain.",
+        "cause": "it may indicate stenosis as walking will add to the cumulative load on the spine. On the other hand, those with a disc bulge may find that slow walking increases pain in the low back while walking fast with the arms swinging about the shoulder reduces pain.",
         "relief": "",
         "do": "You should follow a walking program (with correct technique) combined with rest breaks. This program is out of the scope of this self-assessment.",
         "avoid": ""
