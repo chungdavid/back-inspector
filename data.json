@@ -1,0 +1,114 @@
+[
+    {
+        "question": 1,
+        "problem": "If your pain changes in intensity throughout the day,",
+        "cause": "",
+        "relief": "",
+        "do": "start tracking when the pain intensifies, and why. Is there a certain posture or position that aggravates it? Do you only experience pain when doing a specific actvity? Write all of it down and be detailed. Also, start tracking when your back feels relief or when there is less pain. Similar to your triggers, think about why you might have less pain. After a few days, you will start to notice patterns and will be able to understand what causes your pain and what relieves it. Then, eliminate the causes of pain.",
+        "avoid": ""
+    },
+    {
+        "question": 2,
+        "problem": "If you experience painful 'catches' when rolling over in bed,",
+        "cause": "you may have spinal instability.",
+        "relief": "",
+        "do": "You should stiffen you back with stabalization exercises (such as the McGill big 3) to prevent painful micro-motions of the spinal joints.",
+        "avoid": "Avoid spine manipulation (chiropractic treatment), spine stretching, and exercises that involve bending and twisting."
+    },
+    {
+        "question": 3,
+        "problem": "If your pain is worst first thing in the morning,",
+        "cause": "you may have a poor mattress or poor sleeping posture.",
+        "relief": "",
+        "do": "You should find a mattress with just the right amount of stiffness. This is easier said than done - everyone's back pain is different so there is no one size fits all. Find what works for you! Generally, you should find a way to sleep while maintaining the natural curves in your spine. For example, those with large buttocks may not do well on a very firm mattress, as it causes the lumbar area to be unsupported.",
+        "avoid": "Avoid inappropriate sleeping postures that place extra stress on the spine, such as the fetal position."
+    },
+    {
+        "question": 4,
+        "problem": "If your back pain increases throughout the day,",
+        "cause": "it may indicate cumulitive loading in your back. Specifically, a point is reached during the day where pain begins to present itself. Pain that increases throughout the day suggests that you are not practicing appropriate 'spine hygeine'",
+        "relief": "",
+        "do": "You should adopt spine conserving movements and elimate movements that stress the spine. Refer to the McGill method outlined at the beginning of the self-assessment.",
+        "avoid": ""
+    },
+    {
+        "question": 5,
+        "problem": "If your pain radiates into your buttocks, legs, and feet,",
+        "cause": "it is likely due to a trapped nerve root in the lumbar spine. If pain is felt in the big toe, it indicates irritation in the fifth lumbar nerve route. If pain is felt in the four little toes, then it indicates irritation of the fourth lumbar nerve root. Another potential cause is arthritis in which the bone growth irritates the nerve root with direct compression or with movement.",
+        "relief": "Having healthy movement patterns will usually reduce/eliminate the pain.",
+        "do": "",
+        "avoid": "If irritation in the nerve root is caused by a bulging disc, avoid activities that cause the disc bulge to grow and place pressure on the nerve (such as spine flexion). The nature of radiating back pain (such as sciatica) is very complicated. There are a lot of causes, and treatments depend on the individual's circumstances. Thus, any further information is beyond the scope of this online assessment."
+    },
+    {
+        "question": 6,
+        "problem": "If you experience pain with spine flexion,",
+        "cause": "it may be caused a disc bulge.",
+        "relief": "For pain relief, try lying on your tummy and allow your low back to fall to the floor with each exhalation.",
+        "do": "Practice hinging at the hips and adapt it to all activities where you are required to bend over. In general, practice good spine hygeine principles. Additionally, look into the 'McGill Big 3' exercises.",
+        "avoid": "Avoid spinal flexion when bending forward and avoid staying in a single posture for a long time (such as sitting or standing)"
+    },
+    {
+        "question": 7,
+        "problem": "If you experience pain with dynamic loading,",
+        "cause": "it may indicate compressive injury to the vertebral end plate.",
+        "relief": "For relief, lie on your tummy.",
+        "do": "You should practice abdominal bracing or pectoral-lattissimus bracing and adjust the brace to just reduce pain without over-bracing.",
+        "avoid": "You should avoid dynamic loading activities (e.g. running) and exposure to vibration sources when sitting or standing (e.g. heavy equipment operation)."
+    },
+    {
+        "question": 8,
+        "problem": "If you experience back pain with neck flexion,",
+        "cause": "it may indicate that the nerve roots leaving the spinal cord are sensitive from mechanical irritation.",
+        "relief": "To find relief, try lying on your tummy, and consider nerve flossing after practicing spine hygiene and following a corrective exercise program (a corrective exercise program is dependent on the individual and is not included in this self-assessment).",
+        "do": "You should practice appropriate neck posture.",
+        "avoid": "DO NOT stretch the neck or the spine."
+    },
+    {
+        "question": 9,
+        "problem": "If you experience pain with spinal compression,",
+        "cause": "it may indicate compressive damage to the vertebrae or disc.",
+        "relief": "To find relief, practice good spine hygeine principles.",
+        "do": "You should reduce the load placed on your back with proper spine hygiene, and consider reducing activity.",
+        "avoid": "Avoid forward reaches."
+    },
+    {
+        "question": 10,
+        "problem": "If you experience pain only when walking a specific distance,",
+        "cause": "it is associated with a few things. In older individuals, it may indicate arthritic conditions. If you're younger, it may be due to a joint such as the sacroiliac joint or facet joint. Essentially, cumulitive loading of the disc or arthrthritic joints from walking will irritate the local nerves and sometimes those travelling down the legs.",
+        "relief": "Find a posture that relieves the pain (usually sitting or lying).",
+        "do": "You should still walk, but do so in intervals. Break your walking up into managable chunks and perform pain relieving postures in between each chunk. Doing so will make walking tolerable and help with overall recovery overtime.",
+        "avoid": "Avoid repetitive motions in the back. Avoid walking for periods long enough to stimulate the pain. Instead, end your walk when you're still feeling good."
+    },
+    {
+        "question": 11,
+        "problem": "If you experience pain when bending backwards or twisting,",
+        "cause": "it may indicate a combination of disk pathology with facet joint movement.",
+        "relief": "For relief, avoid bending or twisting.",
+        "do": "Learn to move with the hips and with proper mechanics.",
+        "avoid": "Avoid painful postures and replace them with pain relieving ones."
+    },
+    {
+        "question": 12,
+        "problem": "If you experience pain only when performing a specific exercise,",
+        "cause": "it may be due to flawed mechanics, to much load, or too much training volume.",
+        "relief": "For pain relief, avoid or modify the exercise.",
+        "do": "You should identify the pain trigger or movement flaw in the exercise and remove it. Reduce the training volume & load and focus on correct technique before continuing.",
+        "avoid": "Do not continue the exercise if you are experiencing pain. Address it first."
+    },
+    {
+        "question": 13,
+        "problem": "If you have a history with osteoporosis,",
+        "cause": "",
+        "relief": "",
+        "do": "choose exercises that reduce compressive load on the spine. When walking, try maintaining an upright posture as bending will stress the spine with compressive forces.",
+        "avoid": "Avoid golf. Along with walking, swimming may also be a good exercise if it is tolerable and your posture is healthy."
+    },
+    {
+        "question": 14,
+        "problem": "If your back pain increases with fast walking,",
+        "cause": "it may indicate stenosis as walking will add to the cumulitive load on the spine. On the other hand, those with a disc bulge may find that slow walking increases pain in the low back, and walking fast with he arms swinging about the shoulder reduces pain.",
+        "relief": "",
+        "do": "You should follow a walking program (with correct technique) combined with rest breaks. This program is out of the scope of this self-assessment.",
+        "avoid": ""
+    }
+]

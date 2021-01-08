@@ -1,0 +1,238 @@
+/* variables */
+:root {
+    --red-200: #e85a4f;
+    --red-300: #c7251a;
+    --red-400: #b52217;
+    --bg-color: #eAe7dc;
+    --black: #0c0d0e;
+    --white: #fefefe;
+    --grey: #4a4a4a;
+}
+
+/* font families */
+/* oswald-regular */
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../assets/fonts/oswald-v35-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../assets/fonts/oswald-v35-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-regular */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../assets/fonts/montserrat-v15-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../assets/fonts/montserrat-v15-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-500 */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+         url('../assets/fonts/montserrat-v15-latin-500.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../assets/fonts/montserrat-v15-latin-500.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-600 */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''),
+         url('../assets/fonts/montserrat-v15-latin-600.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../assets/fonts/montserrat-v15-latin-600.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* montserrat-700 */
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../assets/fonts/montserrat-v15-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../assets/fonts/montserrat-v15-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+fieldset {
+    border: none;
+}
+
+button, button:active {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+/* base styles */
+body {
+    background-color: var(--bg-color);
+    font-size: 16px;
+}
+
+header {
+    padding: 3em 5%;
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+    max-height: 4em;
+}
+
+hr {
+    width: 4em;
+    margin: 2em auto 0 auto;
+    height: 1px;
+    border: 0;
+    border-top: 5px solid var(--red-200);
+}
+
+.section {
+    padding: 0 5% 3em 5%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.btn {
+    background-color: var(--red-300);
+    color: var(--white);
+    padding: 0.5em 1em;
+    border-radius: 0.25em;
+    font-size: 1em;
+    font-family: "Oswald";
+    transition: box-shadow 280ms cubic-bezier(.4,0,.2,1);
+}
+
+.btn:hover {
+    background-color: var(--red-400);
+    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2), 0 2px 2px 0 rgba(0,0,0,.14), 0 1px 5px 0 rgba(0,0,0,.12);
+}
+
+.btn2 {
+    color: var(--red-300);
+    padding: 0.5em 1em;
+    font-size: 1em;
+    font-family: "Oswald";
+    text-decoration: underline;
+}
+
+.btn2:hover {
+    color: var(--red-400);
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0 3em 0;
+}
+
+.footer-link {
+    color: inherit;
+    text-decoration: underline;
+}
+
+/* font styles */
+h1, h2, h4, footer span {
+    font-family: "Oswald";
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: var(--red-300);
+}
+
+p, label, legend {
+    font-family: "Montserrat";
+}
+
+.welcome-text {
+    font-weight: 500;
+    font-size: 1.15em;
+    text-align: center;
+}
+
+.cta .welcome-text {
+    margin-bottom: 1em;
+}
+
+.form-instructions {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: center;
+    margin: 1em 0 3em 0;
+}
+
+.question {
+    font-weight: 600;
+}
+
+.results-heading {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+.results-paragraph {
+    margin: 0.5em 0;
+}
+
+.medical-disclaimer {
+    font-size: 0.85em;
+    color: var(--grey);
+    padding: 1em 0 1em 2em;
+    margin-bottom: 1em;
+    border-left: 5px solid var(--red-200);
+}
+
+footer span {
+    font-size: 1em;
+    margin-top: 2em;
+    display: inline-block;
+}
+
+/* styles for index.html */
+.cta {
+    margin: 5em auto;
+    text-align: center;
+}
+
+/* styles for form.html */
+.question-box {
+    margin-bottom: 2em;
+}
+
+.question, .question-description {
+    margin-bottom: 0.5em;
+}
+
+.options {
+    padding-left: 1em;
+}
+
+.form-buttons {
+    margin-top: 2.5em;
+}
+
+/* results section */
+#results {
+    display: none;
+}
